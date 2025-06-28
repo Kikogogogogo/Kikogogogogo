@@ -43,8 +43,6 @@
 ## GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kikogogogogo&show_icons=true&theme=merko" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kikogogogogo&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kikogogogogo&layout=compact&theme=panda" />
