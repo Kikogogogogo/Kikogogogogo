@@ -2,7 +2,7 @@
 <h3 align="center">I'm Kiko, a sleepless coding squirrel pushing commits at 3AM🐿️</h3>
 
 <p align="center">
-  🦊 Backend whisperer | 🐼 Frontend explorer | 🐥 AI dreamer | 🦄 Bug slayer
+  Backend whisperer | Frontend explorer | AI dreamer | Bug slayer
 </p>
 
 ---
@@ -12,15 +12,15 @@
 - 🎓 Computer Science + Mathematics @ University of Toronto 🍁
 - 🐱 Cat parent to **Xayah** (black & white) and **Croissant** (ginger floof)
 - 💻 Currently building:
-  - 🎤 **Voxify** – AI voice cloning platform using **Flask**, **F5-TTS**, and a **React frontend** 🐉https://voxify-front.vercel.app/
-  - 🍡 **PointPulse** – UofT loyalty program for the CSSU community 🐻https://www.pairxy.com/login
-  - 🏆 **Ethics Bowl Scoring Platform** – Making debates fair and easy-managing 🦉
+  - **Voxify** – AI voice cloning platform using **Flask**, **F5-TTS**, and a **React frontend** 🐉https://voxify-front.vercel.app/
+  - **PointPulse** – UofT loyalty program for the CSSU community 🐻https://www.pairxy.com/login
+  - **Ethics Bowl Scoring Platform** – Making debates fair and easy-managing 🦉
  
-- 🧸 Loves: Clean code, good coffee ☕, and late-night debugging with snacks and play League of Legend with my friends(Sona and Tristana main)🍪
+- 🧸 Loves: Clean code, good coffee ☕, and late-night debugging with snacks and play League of Legend with my friends(Sona and Tristana main)
 
 ---
 
-## 🦊 Languages and Tools I Used
+## Languages and Tools I Used
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 🐰 GitHub Stats 
+## GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kikogogogogo&show_icons=true&theme=merko" />
@@ -52,7 +52,7 @@
 
 ---
 
-## 🐍Contribution Snake 
+## Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake">
@@ -60,7 +60,7 @@
 
 ---
 
-## 🐥 Let's Connect!
+## Let's Connect!
 
 - 📫 Email: [hiphoorykiko@gmail.com](mailto:hiphoorykiko@gmail.com)
 - 🐾 LinkedIn: [https://www.linkedin.com/in/kiko-zhao-0757671b6/](https://www.linkedin.com/in/kiko-zhao-0757671b6/)
