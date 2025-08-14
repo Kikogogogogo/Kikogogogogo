@@ -12,9 +12,9 @@
 - 🎓 Computer Science + Mathematics @ University of Toronto 
 - 🐱 Cat parent to **Xayah** (black & white) and **Croissant** (ginger floof)
 - 💻 Currently building:
-  - **Voxify** – AI voice cloning platform using **Flask**, **F5-TTS**, and a **React frontend** https://voxify-front.vercel.app/
-  - **PointPulse** – UofT loyalty program for the CSSU community https://www.pairxy.com/login
-  - **Ethics Bowl Scoring Platform** – Making debates fair and easy-managing 
+  - **Voxify** – AI voice cloning platform using **Flask**, **F5-TTS**, and a **React frontend** [https://voxify-front.vercel.app/](https://voxify-prod.vercel.app)
+  - **PointPulse** – UofT loyalty program for the CSSU community https://www.pairxy.com
+  - **Ethics Bowl Scoring Platform** – Making debates fair and easy-managing  https://ethics-bowl-management2025.vercel.app
  
 - 🧸 Loves: Clean code, good coffee, and late-night debugging with snacks and play League of Legend with my friends(Sona and Tristana main)
 
